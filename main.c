@@ -1,6 +1,9 @@
-#include <stdio.h>
+/*pasaje de °C a °F
+ * ALan Kevin Curia Nadal
+ * 20/04/2015
+ */
 
-//pasaje de °C a °F
+#include <stdio.h>
 
 main(void) {
 
