@@ -2,7 +2,7 @@
 
 //pasaje de °C a °F
 
-int main() {
+main(void) {
 
 	float celcius = 0;
 	float farenheit;
@@ -15,5 +15,4 @@ int main() {
 		celcius= celcius + inc;
 	}
 
-	return 0;
 }
